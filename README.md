@@ -1,10 +1,26 @@
-Программист-алготрейдер.
+# Ярослав Барабанов
+Санкт-Петербург, предпочитаю удаленную работу
+
+e-mail: git.electroyar@gmail.com | telegram: [@ELEKTRO_YAR](https://t.me/ELEKTRO_YAR) | [github](https://github.com/NewYaroslav)
+
+Разработчик C++ с упором на алгоритмическую торговлю. Имеют опыт работы с микроконтроллерами и встроенными системами, но *данное направление не интересует*.
+
+- C++/C, git, gcc, mingw
+- OpenCV, Fann, Eigen, Sqlite, SFML, etc.
+- MQL4/MQL4
+- web (HTML, JS, CSS)
+- микроконтроллеры (ARM Cortex/STM32/ESP32/NRF52, AVR), RTOS, интерфейсы (UART, SPI, I2C, etc.)
+- проектирование схем и печатных плат
+
+# Проекты
 
 ## Турель для страйкбола
 
 В 2015 разрабатывал систему автоматического наведения страйкбольной турели на движующиеся цели на базе OpenCV.
 
 [![Watch the video](https://img.youtube.com/vi/Y6xW9wZpWp0/hqdefault.jpg)](https://youtu.be/Y6xW9wZpWp0)
+
+В 2016 пробовал сделать алгоритм более универсальным. Придумал [предварительный фильтр объектов](https://github.com/NewYaroslav/ph_object_detector) на изображении на основе перцептивного хэша.
 
 ## Персональный кондиционер Evapolar
 
