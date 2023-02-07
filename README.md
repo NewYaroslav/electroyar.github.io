@@ -45,12 +45,12 @@ C сентября 2018 по март 2019 работал над создани�
 
 Предварительно все алгоритмы модуля были проверены в симуляторе на базе движка ODE. Проект был доведен до рабочего прототипа. Удалось добиться среднего радиуса попадания полезной нагрузки в 3 метра на октрытом пространстве.
 
-[![Проверка в симуляторе](https://img.youtube.com/vi/AxgMwhx6p88/hqdefault.jpg)](https://youtu.be/AxgMwhx6p88?raw=true)
-[![Проверка в реальности](https://img.youtube.com/vi/e81SMA3ruoE/hqdefault.jpg)](https://youtu.be/e81SMA3ruoE?raw=true)
-[![Проверка в реальности 2](https://img.youtube.com/vi/EDtxUgqY8-g/hqdefault.jpg)](https://youtu.be/EDtxUgqY8-g?raw=true)
-[![Проверка в реальности 3](https://img.youtube.com/vi/XWi6vN2k0GU/hqdefault.jpg)](https://youtu.be/XWi6vN2k0GU?raw=true)
-![](assets/images/dron_3.png?raw=true)
-![](assets/images/dron_4.png?raw=true)
+[![](https://img.youtube.com/vi/AxgMwhx6p88/hqdefault.jpg)](https://youtu.be/AxgMwhx6p88?raw=true)
+[![](https://img.youtube.com/vi/e81SMA3ruoE/hqdefault.jpg)](https://youtu.be/e81SMA3ruoE?raw=true)
+[![](https://img.youtube.com/vi/EDtxUgqY8-g/hqdefault.jpg)](https://youtu.be/EDtxUgqY8-g?raw=true)
+[![](https://img.youtube.com/vi/XWi6vN2k0GU/hqdefault.jpg)](https://youtu.be/XWi6vN2k0GU?raw=true)
+![](assets/images/dron_3.png)
+![](assets/images/dron_4.png)
 
 ### Счетчик патронов
 
